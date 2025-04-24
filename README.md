@@ -7,7 +7,7 @@ I'm a versatile software engineer with expertise spanning web, mobile, game, and
 - **Languages:** JavaScript/TypeScript, Python, Dart, C#, Java, C, HTML/CSS, SCSS
 - **Frontend:** React, Vue.js, Next.js, Flutter, Tailwind CSS
 - **Backend:** Node.js, Express.js, Flask, .NET Framework
-- **Database:** PostgreSQL, MongoDB, Firebase, Supabase
+- **Database:** PostgreSQL, Firebase, Supabase
 - **Tools:** Git, Docker, AWS, GitLab CI/CD, DigitalOcean
 
 ## 🔭 Previous Interests
