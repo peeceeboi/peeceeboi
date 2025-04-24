@@ -10,7 +10,7 @@ I'm a versatile software engineer with expertise spanning web, mobile, game, and
 - **Database:** PostgreSQL, MongoDB, Firebase, Supabase
 - **Tools:** Git, Docker, AWS, GitLab CI/CD, DigitalOcean
 
-## 🔭 Past Interests
+## 🔭 Previous Interests
 - Blockchain analytics and systems
 - Data science and automated data collection
 - Cross-platform mobile development
